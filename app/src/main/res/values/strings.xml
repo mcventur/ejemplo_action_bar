@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ejemplo_action_bar</string>
+    <string name="home_item">Home</string>
+    <string name="profile_item">Profile</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Bienvenido a mi aplicación</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="acept">Save</string>
+    <string name="greeting_text">Hola %s!!</string>
+</resources>
