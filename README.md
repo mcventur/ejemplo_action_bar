@@ -6,6 +6,7 @@ Ejemplo de implementación de una ToolBar superior para una Actividad. Para impl
    - https://developer.android.com/develop/ui/views/components/appbar/setting-up
  - Para integrarlo con Navigation UI (que se asocie automáticamente a un gráfico de navegación)
    - https://developer.android.com/guide/navigation/integrations/ui?hl=es-419#Tie-navdrawer
+ - Para mostrar el botón arriba: https://developer.android.com/guide/navigation/navigation-ui?hl=es-419 
 
 
 
